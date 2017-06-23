@@ -1,4 +1,4 @@
-# Sistema de Estatística de Recargas
+# Sistema de Estatísticas de Recargas
 
 •	Solução finalizada em 28 de Setembro de 2016
 
