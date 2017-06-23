@@ -4,7 +4,9 @@
 
 •	Sistema para gerar relatórios:
   o	Vários modelos estatísticos com valores e quantidades de recargas realizadas gerais, período de data, mensal, etc.
+  
   o	Vários modelos estatísticos com valores e quantidades de recargas realizadas pelos operadores, período de data, mensal, qtd operadores, etc.
+  
   o	Listagens de recargas realizadas diariamente com meta e valores estimados para alcançar.
 •	Gerencia as metas mensais;
 •	As recargas realizadas são importadas através do sistema por arquivos com extensão csv.
